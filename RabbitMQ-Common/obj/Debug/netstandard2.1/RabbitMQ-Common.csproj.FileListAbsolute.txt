@@ -1,0 +1,9 @@
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\bin\Debug\netstandard2.1\RabbitMQ-Common.deps.json
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\bin\Debug\netstandard2.1\RabbitMQ-Common.dll
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\bin\Debug\netstandard2.1\RabbitMQ-Common.pdb
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.csprojAssemblyReference.cache
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.AssemblyInfoInputs.cache
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.AssemblyInfo.cs
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.csproj.CoreCompileInputs.cache
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.dll
+C:\Users\Navneet Singh\source\repos\RabbitMQ\RabbitMQ-Common\obj\Debug\netstandard2.1\RabbitMQ-Common.pdb
